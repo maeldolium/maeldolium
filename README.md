@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm Maël!
 
-🎓 I’m currently finishing a **BTS in Cybersecurity, Computer Science, Networks, and Electronics**, and I’ll soon be joining the engineering school **ISEN**.
+🎓 I’m currently an apprentice engineering student at ISEN, after completing a BTS in Cybersecurity, Computer Science, Networks, and Electronics.
 
-💻 I’m actively working on a **web development project** with [Jamski55](https://github.com/Jamski55), where I apply and grow my programming skills.
+💻 I’m always happy to create projects and develop my skills !
 
 🚀 I’m currently learning **Next.js** and **Tailwind CSS** to build modern fullstack web applications.
 
-🏗️ I’m also the **co-founder of [2Dev1Dream](https://github.com/2Dev1Dream)**, a **freelance web development project** I'm building with [Jamski55](https://github.com/Jamski55) for the summer. We're focusing on creating modern, responsive websites and web apps for clients.
 
 ---
 
