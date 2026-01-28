@@ -4,9 +4,6 @@
 
 💻 I’m always happy to create projects and develop my skills !
 
-🚀 I’m currently learning **Next.js** and **Tailwind CSS** to build modern fullstack web applications.
-
-
 ---
 
 ## 💻 Technologies
