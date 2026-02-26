@@ -47,10 +47,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" alt="Trello" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maeldolium&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maeldolium&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
           
             
