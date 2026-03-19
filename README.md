@@ -52,7 +52,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" alt="Trello" />
-
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
           
             
